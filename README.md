@@ -11,4 +11,4 @@ An exercise to practice git for the Data Science tutorial at Minerva. (Fall 2022
 * Finally, find an open pull request and review it.
 
 
-My name is Nayyera, an Egyptian M23 majoring in Data Science and Economics. I am interested in growth marketing, content creation, and traveling. I am currently in San Francisco. My two favorite cities are Seoul and London.
+My name is Nayyera, an Egyptian M23 majoring in Data Science and Economics. I am interested in growth marketing, content creation, and traveling. I am currently in San Francisco. data science is the best.
